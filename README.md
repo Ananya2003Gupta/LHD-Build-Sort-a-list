@@ -10,6 +10,6 @@ It is built using Python.
 ## Accomplishments that we're proud of
 It is short and runs smoothly :)
 ## What we learned
-Exploring python.
+Exploring Python.
 ## What's next for LHD Build Sort a list
 Making it more interactive :)
